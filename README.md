@@ -82,4 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Stay Connected
 
 - LinkedIn: [Darshan Vasani](https://linkedin.com/in/dpvasani56)
-- Twitter: [@vanshu_778](https://twitter.com/vasasnidarshan56)
+- Twitter: [@dpvasani56](https://twitter.com/vasasnidarshan56)
