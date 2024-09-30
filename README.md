@@ -1,5 +1,7 @@
 # TypeScript Series 🎓
 
+## More Detaila Comming Soon
+
 Welcome to my TypeScript Series! This repository is dedicated to providing easy-to-understand explanations and hands-on examples of TypeScript concepts and features. Whether you're a beginner or looking to brush up on your TypeScript skills, this series will cover a wide range of topics, from basic syntax to advanced features.
 
 ## 📚 Topics Covered
